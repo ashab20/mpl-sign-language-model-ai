@@ -1,4 +1,3 @@
-# services/animator.py
 import os
 import cv2
 import threading

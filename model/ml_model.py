@@ -1,4 +1,4 @@
-# model/ml_model.py
+
 import cv2
 import threading
 from PIL import Image, ImageTk

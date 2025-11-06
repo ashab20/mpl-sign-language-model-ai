@@ -1,4 +1,4 @@
-# model/gesture_data.py
+
 from sqlalchemy import Column, Integer, String, JSON
 from utils.database import Base
 

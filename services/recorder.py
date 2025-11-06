@@ -1,4 +1,3 @@
-# services/recorder.py
 import cv2
 import threading
 from utils.mediapipe_helper import HandTracker

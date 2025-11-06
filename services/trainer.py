@@ -1,4 +1,3 @@
-# services/trainer.py
 import os
 import numpy as np
 import joblib

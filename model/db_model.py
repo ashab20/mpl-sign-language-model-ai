@@ -1,4 +1,4 @@
-# model/db_model.py
+
 import json
 from utils.database import Session
 from model.gesture_data import GestureData

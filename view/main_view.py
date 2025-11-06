@@ -1,4 +1,4 @@
-# view/main_view.py
+
 import tkinter as tk
 import ttkbootstrap as tbs
 from ttkbootstrap.constants import *
