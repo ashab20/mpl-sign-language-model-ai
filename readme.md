@@ -35,14 +35,15 @@
 Download: https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe  
 **Check "Add Python to PATH"** during install!
 
-#### 2. Install MySQL Server
-Download: https://dev.mysql.com/downloads/installer/  
-Install **MySQL Server + Workbench**  
-Set a root password (remember it!)
+#### 2. Install XAMPP SERVER (APACHE & MySQL Server)
+Download:[Download](https://www.apachefriends.org/)
+Install **XAMPP**
+Start MySQL & APACHE Server
+GOTO PHPMYADMIN and create database: "sign_ai"
 
 #### 3. Download the Project
 ```bash
-git clone https://github.com/yourname/sign_ai.git
+git clone [GITHUB](https://github.com/ashab20/sign-language-ai-translator)
 cd sign_ai
 ```
 or download as ZIP → extract
